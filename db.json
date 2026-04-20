@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Headphones",
+            "category": "Electronics",
+            "price": 59.99,
+            "inStock": true
+        },
+        {
+            "id": 2,
+            "name": "Running Shoes",
+            "category": "Footwear",
+            "price": 89.99,
+            "inStock": true
+        },
+        {
+            "id": 3,
+            "name": "Smart Watch",
+            "category": "Wearables",
+            "price": 129.99,
+            "inStock": false
+        },
+        {
+            "id": 4,
+            "name": "Backpack",
+            "category": "Accessories",
+            "price": 39.99,
+            "inStock": true
+        },
+        {
+            "id": 5,
+            "name": "Bluetooth Speaker T80",
+            "category": "Electronics",
+            "price": 45.5,
+            "inStock": true
+        }
+    ]
+}

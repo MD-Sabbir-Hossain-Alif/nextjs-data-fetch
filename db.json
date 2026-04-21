@@ -2,38 +2,43 @@
     "products": [
         {
             "id": 1,
-            "name": "Wireless Headphones",
+            "name": "Wireless Headphones BT400",
             "category": "Electronics",
             "price": 59.99,
-            "inStock": true
+            "inStock": true,
+            "description": "Comfortable over-ear wireless headphones with noise cancellation and long battery life."
         },
         {
             "id": 2,
             "name": "Running Shoes",
             "category": "Footwear",
             "price": 89.99,
-            "inStock": true
+            "inStock": true,
+            "description": "Lightweight running shoes designed for daily jogging and athletic performance."
         },
         {
             "id": 3,
-            "name": "Smart Watch",
+            "name": "Smart Watch M30 Pro",
             "category": "Wearables",
             "price": 129.99,
-            "inStock": false
+            "inStock": false,
+            "description": "Feature-rich smartwatch with fitness tracking, notifications, and heart rate monitoring."
         },
         {
             "id": 4,
-            "name": "Backpack",
+            "name": "Backpack ROGER",
             "category": "Accessories",
             "price": 39.99,
-            "inStock": true
+            "inStock": true,
+            "description": "Durable and spacious backpack suitable for travel, school, and daily use."
         },
         {
             "id": 5,
-            "name": "Bluetooth Speaker T80",
+            "name": "Bluetooth Speaker",
             "category": "Electronics",
             "price": 45.5,
-            "inStock": true
+            "inStock": true,
+            "description": "Portable Bluetooth speaker with deep bass and waterproof design for outdoor use."
         }
     ]
 }
